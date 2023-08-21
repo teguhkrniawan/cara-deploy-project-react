@@ -6,4 +6,4 @@ KASUS CRA REACT
 3. Install PM2 (npm install pm2 -g) agar di global environment
 4. npm run build (pada project laravel)
 5. serve -s build (utk pastikan running atau enggak)
-6. pm2 serve build 80 --spa (80 adalah port)
+6. pm2 serve build 80 --spa --name nama-aplikasi (80 adalah port)
